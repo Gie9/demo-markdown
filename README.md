@@ -6,3 +6,6 @@
 ##### Haading 5
 ###### Heading 6
 Markdown cheat sheet
+
+<---Italics---->
+_This paragraph is going to be italic using underscore_
